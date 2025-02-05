@@ -11,4 +11,3 @@
 - SOMASE;
 - SOMARPRODUTO;
 - MÉDIA;
-- 
